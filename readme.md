@@ -1,6 +1,7 @@
 # Share code between Biju and Sam
 
-- Use to share code across VMs, can navigate to https://github.com/sammcgrail/primeshare in VM and download file directly
+- Use to share code across VMs
+- Navigate to https://github.com/sammcgrail/primeshare in VM and download file directly
 
 ## Commit code locally and push to share it to the remote repo
 
