@@ -1,5 +1,0 @@
---index-url https://pypi.python.org/simple/
-
-python-dotenv>=0.1.2
-scapy==2.3.1
-twilio>=0.0.0
